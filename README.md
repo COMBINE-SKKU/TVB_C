@@ -5,6 +5,7 @@
 # https://hub.docker.com/r/thevirtualbrain/fast_tvb
 
 
+## If you do not want the container, but compile yourself, please see below
 
 The code implements a brain network model composed of connected ReducedWongWang neural mass models (Wong & Wang, 2006) with feedback inhibition control (FIC). For more information on the model and FIC please see Deco et al. (2014), Schirner et al. (2018) and Shen et al. (2019).
 
