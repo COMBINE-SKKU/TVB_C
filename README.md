@@ -1,5 +1,11 @@
 # TVB_C -- A fast implementation of The Virtual Brain's simulation core in C
 
+
+# Update 2019: TVB_C is now available as a convenient Docker container
+# https://hub.docker.com/r/thevirtualbrain/fast_tvb
+
+
+
 The code implements a brain network model composed of connected ReducedWongWang neural mass models (Wong & Wang, 2006) with feedback inhibition control (FIC). For more information on the model and FIC please see Deco et al. (2014), Schirner et al. (2018) and Shen et al. (2019).
 
 For more information on The Virtual Brain (TVB) please see 
